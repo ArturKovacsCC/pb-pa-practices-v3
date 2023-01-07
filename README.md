@@ -9,7 +9,8 @@ Write a function called `getSongCountInFirst` which returns the number of songs 
 
 Write a function called `getAvailableAmount` which returns the number of albums (products) that are available (use `status`). Call this function and print its return value.
 
-=============================================================
+
+-----------------------------------------------
 
 
 # PA 1
@@ -33,7 +34,8 @@ Create a function called `getAlbumsWithHigherPrice` which takes one parameter ca
 Call `getAlbumsWithHigherPrice` and print the return value.
 
 
-=============================================================
+-----------------------------------------------
+
 
 # PA 2
 
@@ -51,7 +53,9 @@ Write a function called `getMostValuableAlbumForRuntime`. This function must ret
 
 Call `getMostValuableAlbumForRuntime` and print its return value.
 
-=============================================================
+
+-----------------------------------------------
+
 
 # PA 3
 
@@ -72,7 +76,7 @@ Write a function called `getOneWordArtistNames` that returns an array with the n
 Call the `getOneWordArtistNames` function and print its return value to the console.
 
 
-=============================================================
+-----------------------------------------------
 
 
 # EXTRA
